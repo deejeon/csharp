@@ -1,0 +1,12 @@
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.deps.json
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.runtimeconfig.json
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.runtimeconfig.dev.json
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.dll
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.pdb
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.csprojAssemblyReference.cache
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.AssemblyInfo.cs
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.dll
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.pdb
+/Users/danieljeon/Desktop/dev/csharp/fundamentals/essentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp.deps.json
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp.runtimeconfig.json
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp.runtimeconfig.dev.json
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp.dll
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/bin/Debug/netcoreapp3.1/FirstCSharp.pdb
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.csprojAssemblyReference.cache
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.AssemblyInfoInputs.cache
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.AssemblyInfo.cs
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.dll
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.pdb
+/Users/danieljeon/Desktop/dev/csharp/installation/FirstCSharp/obj/Debug/netcoreapp3.1/FirstCSharp.genruntimeconfig.cache
