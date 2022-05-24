@@ -15,6 +15,11 @@ namespace HelloASP
         }
 
         //localhost:5000/hello
-        //[Route("hello")]
+        [Route("hello")]
+        [HttpGet]
+
+        public RedirectToActionResult Hello() {
+            return RedirectToAction("HelloFromController");
+        }
     }
 }
